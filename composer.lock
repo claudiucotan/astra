@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54005bc1863068cf76fb7e999d1039d8",
+    "content-hash": "88ec7edc721bf58e37ac1db208251c41",
     "packages": [
         {
             "name": "brainstormforce/astra-notices",
@@ -1288,23 +1288,23 @@
         },
         {
             "name": "php-stubs/woocommerce-stubs",
-            "version": "v5.9.1",
+            "version": "v6.9.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-stubs/woocommerce-stubs.git",
-                "reference": "486ccff117badfab94c404065d37a77d632d7db5"
+                "reference": "870c0c0abcd5ae9a8be58fc797123a4d882e604e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-stubs/woocommerce-stubs/zipball/486ccff117badfab94c404065d37a77d632d7db5",
-                "reference": "486ccff117badfab94c404065d37a77d632d7db5",
+                "url": "https://api.github.com/repos/php-stubs/woocommerce-stubs/zipball/870c0c0abcd5ae9a8be58fc797123a4d882e604e",
+                "reference": "870c0c0abcd5ae9a8be58fc797123a4d882e604e",
                 "shasum": ""
             },
             "require": {
-                "php-stubs/wordpress-stubs": "^5.3.0"
+                "php-stubs/wordpress-stubs": "^5.3 || ^6.0"
             },
             "require-dev": {
-                "php": "~7.1",
+                "php": "~7.1 || ~8.0",
                 "php-stubs/generator": "^0.8.0"
             },
             "suggest": {
@@ -1326,9 +1326,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-stubs/woocommerce-stubs/issues",
-                "source": "https://github.com/php-stubs/woocommerce-stubs/tree/v5.9.1"
+                "source": "https://github.com/php-stubs/woocommerce-stubs/tree/v6.9.3"
             },
-            "time": "2022-04-30T06:35:48+00:00"
+            "time": "2022-09-20T23:28:43+00:00"
         },
         {
             "name": "php-stubs/wordpress-stubs",
