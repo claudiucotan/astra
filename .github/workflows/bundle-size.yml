@@ -64,7 +64,7 @@ jobs:
               env:
                 COMPOSE_INTERACTIVE_NO_CLI: true
 
-            - uses: preactjs/compressed-size-action@v2
+            - uses: preactjs/compressed-size-action@v3
               with:
                   repo-token: "${{ secrets.GITHUB_TOKEN }}"
                   # Any JS files anywhere within a dist directory:
